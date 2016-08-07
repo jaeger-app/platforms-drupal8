@@ -1,6 +1,6 @@
 {
-	"name": "jaeger-app/platforms-craft",
-	"description": "A Craft Platform object for use with Jaeger\\Platforms.",
+	"name": "jaeger-app/platforms-drupal8",
+	"description": "A Drupal 8 Platform object for use with Jaeger\\Platforms.",
     "keywords": [
         "Craft"
     ],	
